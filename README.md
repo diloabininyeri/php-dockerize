@@ -26,6 +26,6 @@ http://yourip:8080
 for acces to php project 
 
 ```
-http://yourip:8080
+http://yourip:8888
 ```
 

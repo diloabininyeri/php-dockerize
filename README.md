@@ -15,3 +15,17 @@ for down
 docker-compose down
 ```
 
+
+for accces to phpmyadmin 
+
+```
+http://yourip:8080
+```
+
+
+for acces to php project 
+
+```
+http://yourip:8080
+```
+
